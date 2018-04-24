@@ -1,2 +1,9 @@
+import { makeExecutableSchema } from 'graphql-tools'
 
-ll
+cosnt typeDefinitions = `type Person {
+    age: Int
+    name: String 
+    gender: String
+}`
+
+const schema = makeExecutableSchema({ typeDefinitions })

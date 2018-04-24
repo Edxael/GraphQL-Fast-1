@@ -31,3 +31,5 @@ package.json in the:
 
 -------------------------------------------------------------------------
 
+aitoi:
+https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/learn/v4/t/lecture/8705350?start=0

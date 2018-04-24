@@ -3,7 +3,7 @@ import { graphiqlExpress, graphqlExpress } from 'apollo-server-express'
 import bodyParser from 'body-parser'
 const app = express()
 
- 
+//  pausa para solo mirar: sec 3 - lec 10 "Schema"
 
 app.get('/', (req, res) => {
     res.send('Hello World')
